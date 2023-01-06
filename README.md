@@ -1,5 +1,5 @@
 # 2048 puzzle game
-This game was made with `HTML`, `CSS` and `JavaScript`
+This app was created using `HTML`, `CSS` and pure `JavaScript` with advanced topics like working with DOM-elements, event handling etc.
 
 + [DEMO LINK](https://paulvoron.github.io/2048-game/)
 
